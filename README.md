@@ -1,5 +1,5 @@
 # MMA Match Reserve
-MMA Match Reserve is a web application designed to streamline the process of matching fighters and scheduling MMA bouts. The platform allows users to reserve matches, add fighters, and set the time and location for each bout. This tool is designed for fight promoters, gym owners, and organizers to efficiently manage and coordinate MMA events.
+MMA Match Reserve is a application designed to streamline the process of matching fighters and scheduling MMA bouts. The platform allows users to reserve matches, add fighters, and set the time and location for each bout. This tool is designed for fight promoters, gym owners, and organizers to efficiently manage and coordinate MMA events.
 
 Features:
 - Reserve Matches: Schedule and reserve MMA bouts between fighters.
